@@ -20,12 +20,11 @@ To use the service [GET - method] ,
  - returns a masked url
 
 ## To use with python :
-      ```
+
     import requests as r
     url = "https://darkmash-org.github.io/"
     r.get("https://Darkmask.darkmash.repl.co/from", headers = {"url":url})
-      ```
 
-### On visiting :
+### On visiting (main page):
 
-![Alt text](https://cdn.discordapp.com/attachments/951417646191083551/1075808861216325694/image.png?raw=true "Start")
+![Alt text](https://cdn.discordapp.com/attachments/951417646191083551/1075808861216325694/image.png?raw=true "main-page")
