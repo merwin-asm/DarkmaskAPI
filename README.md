@@ -13,7 +13,8 @@ An API for masking Urls..
 To use the service [GET - method] ,
   ```
           https://Darkmask.darkmash.repl.co/from
-    ```
-    - give the url as url in headers
+  ```
+ 
+ - give the url as url in headers
     
-    - returns a masked url
+ - returns a masked url
