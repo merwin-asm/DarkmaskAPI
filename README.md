@@ -20,7 +20,7 @@ To use the service [GET - method] ,
  - returns a masked url
 
 ## To use with python :
-py```
+python```
 import requests as r
 url = "https://darkmash-org.github.io/"
 r.get("https://Darkmask.darkmash.repl.co/from", headers = {"url":url})
