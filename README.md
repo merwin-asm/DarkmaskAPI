@@ -23,7 +23,7 @@ To use the service [GET - method] ,
 
     import requests as r
     url = "https://darkmash-org.github.io/"
-    r.get("https://Darkmask.darkmash.repl.co/from", headers = {"url":url})
+    print(r.get("https://Darkmask.darkmash.repl.co/from", headers = {"url":url}).text)
 
 ### On visiting (main page):
 
